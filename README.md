@@ -1,3 +1,3 @@
 # bakery-homepage
-A Html bootstrap homepage for a bakery
-made using Bootstrap studio.
+A Html bootstrap homepage for a bakery.
+Made using Bootstrap studio.
