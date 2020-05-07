@@ -1,0 +1,108 @@
+#promo {
+  text-align: center;
+  padding: 18px;
+  margin-top: 65px;
+}
+
+@media (min-width: 768px) {
+  #promo {
+    text-align: center;
+    padding: 48px;
+    margin-top: 65px;
+  }
+}
+
+#promo .jumbotron {
+  padding: 20px;
+  /*border-radius: 20px;*/
+  /*opacity: 0.8;*/
+  background-color: rgba(255,255,255,0.75);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  #promo .jumbotron {
+    padding: 80px;
+    border-radius: 20px;
+    /*opacity: 0.8;*/
+    background-color: rgba(255,255,255,0.75);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
+
+.container.info {
+  text-align: center;
+  padding: 40px;
+}
+
+.welp {
+  font-size: 15px;
+  margin: auto;
+  color: #666666;
+}
+
+@media (min-width: 768px) {
+  .welp {
+    max-width: 800px;
+    font-size: 20px;
+    margin: auto;
+    color: #666666;
+  }
+}
+
+#prod .h1, h1 {
+  margin-top: 5px;
+  /*font-size: 70px;*/
+}
+
+#prod .iconinfo {
+  font-size: 45px;
+  margin-top: 5px;
+  color: rgb(234,129,147);
+}
+
+#prod p {
+  margin-top: -20px;
+  margin-bottom: 1rem;
+}
+
+#head1 {
+  font-size: 51px;
+}
+
+@media (min-width: 768px) {
+  #head1 {
+    font-size: 71px;
+  }
+}
+
+#headinfo {
+  height: auto;
+  font-size: 38px;
+}
+
+@media (min-width: 768px) {
+  #headinfo {
+    height: auto;
+    font-size: 44px;
+  }
+}
+
+#logo {
+  max-height: 35px;
+  margin-right: 5px;
+  margin-bottom: 2px;
+}
+
+@media (min-width: 768px) {
+  .h2, h2 {
+    font-size: 2rem;
+  }
+}
+
+.h2, h2 {
+  font-size: 25px;
+}
+
